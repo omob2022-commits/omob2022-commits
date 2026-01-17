@@ -1,16 +1,19 @@
-## Hi there 👋
+# Omar Obaid 👨‍💻
 
-<!--
-**omob2022-commits/omob2022-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Developer | Math Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Summary
+Dedicated developer passionate about building efficient applications and learning new technologies. I am currently seeking opportunities to join a forward-thinking team.
+
+### 🛠 Tech Stack
+- **Languages:** C++, TypeScript, JavaScript, React, HTML, CSS
+- **Tools:** Git, GitHub, VS Code, Neovim, Antigravity
+
+### 🚀 Projects
+
+
+### 🔗 Connect with me
+- [LinkedIn]()
+- [Email]()
